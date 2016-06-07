@@ -1,2 +1,2 @@
 # shell
-shell collection
+A collecttion of shell scripts for saving times.

@@ -10,8 +10,8 @@ sudo apt-get purge unity-lens-shopping -y//remove amazon ad
 
 sudo apt-get update
 
-sudo apt-get install shadowsocks-qt5 vim git vlc ctags build-essential cmake python-dev  clipgrab nmap handbrake unity-tweak-tool -y
-wget https://bootstrap.pypa.io/get-pip.py
+sudo apt-get install shadowsocks-qt5 htop vim git vlc ctags build-essential cmake python-dev  clipgrab nmap handbrake unity-tweak-tool -y
+wget  https://bootstrap.pypa.io/get-pip.py
 sudo python3 get-pip.py -y
 pip3 install you-get -y
 sudo apt-get install proxychains -y
